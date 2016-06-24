@@ -1,6 +1,6 @@
-# Automation Project (AV-AUTO-PROJECT branch)
+# Automation Project (Master branch)
 
-* Basic Automation Project Structure*
+* Automation Project on Expedia using Selenium WD*
 
 **Java 7**
 
