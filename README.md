@@ -1,4 +1,4 @@
-# Automation Project (Master branch)
+# Expedia Automation Project (Master branch)
 
 * Automation Project on Expedia using Selenium WD*
 
